@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-  </p>Meu portfólio</p>
+</p><title>Meu portfólio</title></p>
 </head>
 
 <body>
     <header>
-        <p>Eu sou Rafael</p>
+        <p>Eu sou Rafael_</p>
         <h1>Eu estudo Programação e Musica</h1>
         <p>Sou Produtor Musical </p>
         <p>Minhas habilidades</p>
