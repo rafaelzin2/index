@@ -10,7 +10,7 @@
 
 <body>
     <header>
-        <p>Eu sou Rafael_</p>
+        <p>Eu sou Rafael</p>
         <h1>Eu estudo Programação e Musica</h1>
         <p>Sou Produtor Musical </p>
         <p>Minhas habilidades</p>
