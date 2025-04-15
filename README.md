@@ -10,8 +10,7 @@
 
 <body>
     <header>
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" srcset="">
-        <p>Eu sou Rafael_</p>
+        <p>Eu sou Rafael</p>
         <h1>Eu estudo Programação e Musica</h1>
         <p>Sou Produtor Musical </p>
         <p>Minhas habilidades</p>
